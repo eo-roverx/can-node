@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
+  (lib (name "MINI360-buck")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/MINI360-buck.kicad_sym")(options "")(descr ""))
+  (lib (name "MD13S")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/MD13S.kicad_sym")(options "")(descr ""))
+)
