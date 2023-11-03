@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/esp32.pretty")(options "")(descr ""))
+  (lib (name "MINI_360_Buck")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/MINI_360_Buck.pretty")(options "")(descr ""))
+  (lib (name "md13")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/md13.pretty")(options "")(descr ""))
+)
