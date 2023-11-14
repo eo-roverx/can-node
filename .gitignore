@@ -2,3 +2,6 @@
 *backups/
 *cache*
 *.lck
+*.step
+*.stl
+*sddr*
