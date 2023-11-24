@@ -2793,7 +2793,7 @@
   (gr_text "[32]" (at 144.018 84.836) (layer "F.SilkS") (tstamp 8f4c4f4f-7a4b-4977-9608-b3608a6a45a9)
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
-  (gr_text "+VIN" (at 95.758 53.848) (layer "F.SilkS") (tstamp adf23c72-8b30-4716-8cc0-182bf32e75fc)
+  (gr_text "+VIN" (at 97.79 52.832) (layer "F.SilkS") (tstamp adf23c72-8b30-4716-8cc0-182bf32e75fc)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "-" (at 83.312 83.82) (layer "F.SilkS") (tstamp afa18b60-ef57-414b-88e2-f55320da09b9)
