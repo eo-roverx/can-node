@@ -54,8 +54,8 @@ Part of the new arm system, wherein each PCB drives one motor, provides it feedb
 ### LEDs
 - D32 status
 - D13 user 0
-- D12 user 1
-- D14 user 2
+- D12 user 1 (CAN Rx)
+- D14 user 2 (CAN Tx)
 - D27 user 3
 
 ### Address DIP switches
