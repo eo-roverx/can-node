@@ -30,6 +30,8 @@ Part of the new arm system, wherein each PCB drives one motor, provides it feedb
 - 1 status LED
 - 4 user defined LEDs
     - 2 used for CRx-CTx
+    - 1 used for MPU calibration
+    - 1 used for sync
 
 ## ESP32 Pin-out
 
