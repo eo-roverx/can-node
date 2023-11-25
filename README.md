@@ -12,6 +12,7 @@ Part of the new arm system, wherein each PCB drives one motor, provides it feedb
 
 ## Components
 - ESP32 Microcontroller
+- ESP32 power capacitor
 - MPU9250 IMU
 - MCP2551 CAN Transceiver
 - 2x CAN RJ45 ports
@@ -21,17 +22,19 @@ Part of the new arm system, wherein each PCB drives one motor, provides it feedb
 - MD13 signal JST
 - motor encoder JST
 - 5V buck converter
-- I2C pull-up resistors
+- 2x 4.7k ohms I2C pull-up resistors
 - CAN termination resistor solder pads
 - I2C debug solder pads
 - CAN Rx-Tx debug solder pads
 - 4x dip switch
+- 4x 10k ohm pull-down resistors
 - 1 power LED
 - 1 status LED
 - 4 user defined LEDs
     - 2 used for CRx-CTx
     - 1 used for MPU calibration
     - 1 used for sync
+- 6x 2k ohm current limiting resistors
 
 ## ESP32 Pin-out
 
