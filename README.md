@@ -38,6 +38,8 @@ Part of the new arm system, wherein each PCB drives one motor, provides it feedb
 
 ## ESP32 Pin-out
 
+![ESP32 Pin-out](https://lastminuteengineers.com/wp-content/uploads/iot/ESP32-Pinout.png)
+
 ### CAN Bus
 -  D2 CAN Rx
 - D15 CAN Tx
